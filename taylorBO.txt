@@ -1,0 +1,14 @@
+%Bartosz Okoński
+\documentclass[12pt]{article}
+%\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath} %pakiet matematyczny
+\usepackage{amssymb} %pakiet dodatkowych symboli
+\begin{document}
+
+{\Large Twierdzenie Taylora}\\
+\noindent
+$f(x)=f(a)+ \frac{(x-a)^1}{1!}f^{(1)}(a)+\frac{(x-a)^2}{1!}f^{(2)} (a)+\dots+\frac{(x-a)^n}{n!}f^{(n)}(a)+R_n (x,a)=\\
+=\sum\limits_{k=0}^n ({\frac{(x-a)^1}{1!}}f^{(k)}(a))+R_n(x,a)$\\[12pt]
+$\lim\limits_{x \to a} \frac{R_n(x,a)}{(x-a)^n} = 0$
+\end{document}

@@ -1,0 +1,8 @@
+\documentclass[12pt]{article}
+\begin{document}
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+Polskie znaki (diakrytyczne,narodowe,poldiak,ogonki):
+ĄĆĘŁŃÓŚŻŹ
+ąćęłńóśźż
+\end{document}

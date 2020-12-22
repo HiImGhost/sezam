@@ -1,0 +1,16 @@
+% Bartosz Okoski
+\documentclass{article}
+
+\begin{document}
+Tabelka 1\\[16pt]
+\begin{tabular}{|l|r|c|}
+\hline
+     Towar&Cena&Promocja\\ \hline
+     Sok&3.23&x\\ \hline
+     Jogurt&2.49&\\ \hline
+     Koniak&123.45&\\ \hline
+     Woda&10.45&x\\ 
+     \hline
+\end{tabular}
+
+\end{document}
